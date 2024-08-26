@@ -1,0 +1,5 @@
+###Task: define a function that print "*message*" *n* times, where *message* and *n* are parameters
+# your code will be here
+def messagen(x,y):
+  print(x*y)
+messagen("tacocat", 5)
